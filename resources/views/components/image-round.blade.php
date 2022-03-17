@@ -1,0 +1,1 @@
+<img src="{{$src}}" alt="{{$alt}}" class="{{$class}}" style="object-fit: cover; height: {{$size}}px; width: {{$size}}px; border-radius:50%">
